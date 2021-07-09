@@ -32,7 +32,7 @@ Base URL https://zen-assign-mentors.herokuapp.com
 
 <pre>POST         <a href="https://zen-assign-mentors.herokuapp.com/Mentors">/Mentors </a></pre>
 
-<pre>GET by ID    <a href="https://zen-assign-mentors.herokuapp.com/Mentors/Mentors/get-mentor/60e7f4acd5ff5342a06652dd">/Mentors/get-mentor/:ID </a></pre>
+<pre>GET by ID    <a href="https://zen-assign-mentors.herokuapp.com/Mentors/get-mentor/60e7f4acd5ff5342a06652dd">/Mentors/get-mentor/:ID </a></pre>
 
 # Student Api's
 
