@@ -1,4 +1,3 @@
-# ZEN-Mentos-Backend
 
 # Mentor and Student Assigning with Database
 WEB DEVELOPER TASK
